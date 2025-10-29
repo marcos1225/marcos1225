@@ -1,16 +1,128 @@
-## Hi there 👋
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FF,100:0072FF&reversal=true&text=Marcos%20Gonz%C3%A1lez&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Vue%203%20%2B%20Quasar%20%7C%20.NET&descAlign=50&descAlignY=60" />
+</div>
 
-<!--
-**marcos1225/marcos1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=680&lines=Arquitectura+limpia+y+escalable;Vue+3+%2B+Quasar+%2B+Composables;Backend+.NET+con+JWT+%2F+Identity;CI%2FCD+con+Azure+DevOps;Siempre+aprendiendo+%F0%9F%93%9A">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:marcosgonzana18@gmail.com"><img src="https://img.shields.io/badge/Email-FF3B30?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+Desarrollador Full Stack de Guanacaste, Costa Rica. Especializado en frontend con **Vue 3 + Quasar** y patrones de **Composables**. Experiencia integrando **.NET** con **JWT/Identity**, pruebas con **xUnit/Jest** y flujos **CI/CD** en **Azure DevOps**.
+
+- Enfoque: DX, rendimiento, i18n, componentes reutilizables y estándares SOLID/DRY.
+- Actualmente: optimización de build con Vite, testing con Vitest/Cypress y automatizaciones CI.
+
+---
+
+### 🧱 Guía de arquitectura que aplico
+- UI en `components/` (solo visual, comunicación por `props`/`emits`).
+- Lógica y estado en `composables/` (`useXxx`).
+- Diálogos dedicados y/o `Base*` reutilizables.
+- Servicios de datos en `services/`.
+- Vistas en `views/`, layouts globales en `layouts/`.
+- `<script setup>` + TypeScript, funciones cortas y descriptivas.
+
+---
+
+### 💼 Experiencia
+<details>
+  <summary><b>Full Stack Developer | INFIGO SYC LYDA | Nov 2024 – Presente</b></summary>
+  <br>
+  • App de inventarios con <b>Vue.js (frontend)</b> y <b>.NET (backend)</b> con <b>JWT + Identity</b>.<br>
+  • Pruebas funcionales con <b>xUnit</b> (+15% calidad).<br>
+  • <b>CI/CD</b> con <b>Azure DevOps</b>.<br>
+  • SaaS de gestión de citas multi-negocio con Vue + .NET.
+</details>
+
+<details>
+  <summary><b>Full Stack Developer (Prácticas) | Central Azucarera Tempisque | Oct 2023 – Oct 2024</b></summary>
+  <br>
+  • Sistema <b>GPS</b> con <b>React</b> (frontend) y <b>Java</b> (backend).<br>
+  • Reportes en <b>Oracle APEX</b>.<br>
+  • APIs y procedimientos con <b>Node.js</b> y <b>MariaDB</b>.<br>
+  • UI con filtros, rutas y categorización de dispositivos.
+</details>
+
+---
+
+### 🎓 Educación y Certificaciones
+- Universidad de Costa Rica (2021–2025) — Bachillerato en Informática Empresarial.
+- Scrum (Platzi, 2024) • Astro (2024) • Tailwind (2024) • Vue.js (2025) • .NET (2025) • Azure DevOps CI/CD (2025) • React Avanzado (en curso)
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,vite,react,astro,tailwind,ts,js,cs,dotnet,nodejs,docker,git,azure" />
+</p>
+
+- Frontend: Vue 3, Quasar, React, Astro, Tailwind, Pinia, Vue Router  
+- Backend: .NET, Node.js, Java • DB: MariaDB  
+- Testing/DevOps: Azure DevOps (CI/CD), Git, Docker, Jest, xUnit
+
+---
+
+### 📌 Proyectos destacados
+<details open>
+  <summary><b>01. Inventarios (Vue 3 + .NET + JWT)</b></summary>
+  <br>
+  App SPA con autenticación JWT/Identity, estados con composables y CI/CD en Azure DevOps.<br>
+  <b>Stack:</b> Vue 3, Quasar, .NET, Vite, Azure DevOps<br>
+  <b>Logros:</b> arquitectura modular, +15% cobertura de pruebas, despliegues automatizados.
+</details>
+
+<details>
+  <summary><b>02. SaaS de citas (Vue + .NET)</b></summary>
+  <br>
+  Multi-tenant, componentes base de formularios y validaciones en composables.<br>
+  <b>Stack:</b> Vue 3, Quasar, .NET, Pinia
+</details>
+
+---
+
+### 📊 Métricas y actividad
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcos1225&theme=algolia&show_icons=true&rank_icon=percentile&border_radius=14&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos1225&layout=compact&langs_count=8&theme=radical&border_radius=14" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos1225&theme=github_dark" />
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=marcos1225&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+</a>
+
+</div>
+
+---
+
+### 🐍 Snake (contribuciones)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+### 🤝 Contacto
+- Email: **marcosgonzana18@gmail.com**  
+- LinkedIn: añade tu URL aquí  
+- Teléfono: **+506 6354-9134** • Ubicación: Guanacaste, Costa Rica
+
+<h4 align="center">“Calidad en arquitectura, claridad en componentes y composables reutilizables.”</h4>
+
+---
+
+<i>Créditos de inspiración: Abdalrahman-Alhamod</i> • Última edición: 29/10/2025
