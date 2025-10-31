@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FF,100:0072FF&reversal=true&text=Marcos%20Gonz%C3%A1lez&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Vue%203%20%2B%20Quasar%20%7C%20.NET&descAlign=50&descAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C6FF,100:0072FF&reversal=true&text=Marcos%20Gonz%C3%A1lez&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Vue%203%20%2B%20Quasar%20%7C%20React%20%7C%20.NET%20%7C%20Node.js&descAlign=50&descAlignY=60" />
+
 </div>
 
 <p align="center">
@@ -10,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:marcosgonzana18@gmail.com"><img src="https://img.shields.io/badge/Email-FF3B30?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marcos-gonzalez-navarrete/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -92,8 +93,6 @@ Desarrollador Full Stack de Guanacaste, Costa Rica. Especializado en frontend co
 ### 📊 Métricas y actividad
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcos1225&theme=algolia&show_icons=true&rank_icon=percentile&border_radius=14&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos1225&layout=compact&langs_count=8&theme=radical&border_radius=14" />
 
 <br/>
 
@@ -117,8 +116,6 @@ Desarrollador Full Stack de Guanacaste, Costa Rica. Especializado en frontend co
 ---
 
 ### 🤝 Contacto
-- Email: **marcosgonzana18@gmail.com**  
-- LinkedIn: añade tu URL aquí  
 - Teléfono: **+506 6354-9134** • Ubicación: Guanacaste, Costa Rica
 
 <h4 align="center">“Calidad en arquitectura, claridad en componentes y composables reutilizables.”</h4>
