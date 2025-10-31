@@ -55,10 +55,20 @@ Desarrollador Full Stack de Guanacaste, Costa Rica. Especializado en frontend co
 
 ---
 
-### 🎓 Educación y Certificaciones
-- Universidad de Costa Rica (2021–2025) — Bachillerato en Informática Empresarial.
-- Scrum (Platzi, 2024) • Astro (2024) • Tailwind (2024) • Vue.js (2025) • .NET (2025) • Azure DevOps CI/CD (2025) • React Avanzado (en curso)
+<h3>🎓 Educación y Certificaciones</h3>
 
+<p>- Universidad de Costa Rica (2021–2025) — Bachillerato en Informática Empresarial.</p>
+
+<h4>Certificaciones</h4>
+<ul style="list-style: disc; padding-left: 1.2rem;">
+  <li style="margin-bottom: 6px;">React Avanzado — En curso</li>
+  <li style="margin-bottom: 6px;">Scrum — Platzi, 2024</li>
+  <li style="margin-bottom: 6px;">Desarrollo Web en Astro — Platzi, 2024</li>
+  <li style="margin-bottom: 6px;">Tailwind CSS — Platzi, 2024</li>
+  <li style="margin-bottom: 6px;">Vue.js — Platzi, 2025</li>
+  <li style="margin-bottom: 6px;">Principios SOLID en .NET — Platzi, 2025</li>
+  <li style="margin-bottom: 6px;">Azure DevOps: Flujos de CI/CD — Platzi, 2025</li>
+</ul>
 ---
 
 ### 🛠️ Tech Stack
@@ -67,8 +77,8 @@ Desarrollador Full Stack de Guanacaste, Costa Rica. Especializado en frontend co
 </p>
 
 - Frontend: Vue 3, Quasar, React, Astro, Tailwind, Pinia, Vue Router  
-- Backend: .NET, Node.js, Java • DB: MariaDB  
-- Testing/DevOps: Azure DevOps (CI/CD), Git, Docker, Jest, xUnit
+- Backend: .NET, Node.js, Java  
+- Testing/DevOps: Azure DevOps (CI/CD), Git, Docker, kubernetes, Jest, xUnit
 
 ---
 
